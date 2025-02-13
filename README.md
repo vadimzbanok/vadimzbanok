@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning (Student at DCI)
+- 🌱 I’m currently learning web Development (Student at DCI)
 
 
 <!--
