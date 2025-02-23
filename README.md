@@ -9,7 +9,7 @@
 - 👨‍💻 **Programming:** Coding is a passion of mine, and I love solving complex problems and building innovative solutions. **Always improving...** 🚀
   <br>
   <img src="https://img.shields.io/badge/Status-Improving-brightgreen?style=for-the-badge&logo=react">
-- 📸 **Photography:** Capturing moments and creating visual stories through photography is a hobby of mine. **Main Hobby...** 📸
+- 📸 **Photography:** Capturing moments and creating visual stories through photography is a hobby of mine. **Main Hobby...** 
   <br>
   <img src="https://img.shields.io/badge/Status-Main%20Hobby-blue?style=for-the-badge&logo=camera">
 - 🎵 **Music:** Music is an essential part of my life, and I love discovering new artists and genres. **Passionate Listener...** 🎧
