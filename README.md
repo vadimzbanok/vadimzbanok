@@ -1,4 +1,4 @@
-````markdown name=README.md
+
 # About Me 🚀
 
 ## Personal Interests
@@ -40,4 +40,4 @@
 "The best way to predict the future is to invent it." – Alan Kay
 
 Keep exploring and innovating! 🚀✨
-````
+
